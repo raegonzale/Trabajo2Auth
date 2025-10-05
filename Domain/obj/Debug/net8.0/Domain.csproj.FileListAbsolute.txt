@@ -10,3 +10,7 @@ C:\Users\raule\OneDrive\5. ESPECIALIZACION ITM\03. PATRONES DE DISEÑO\Trabajos\
 C:\Users\raule\OneDrive\5. ESPECIALIZACION ITM\03. PATRONES DE DISEÑO\Trabajos\Trabajo Patrones Estructurales\Trabajo2Auth\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\raule\OneDrive\5. ESPECIALIZACION ITM\03. PATRONES DE DISEÑO\Trabajos\Trabajo Patrones Estructurales\Trabajo2Auth\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\raule\OneDrive\5. ESPECIALIZACION ITM\03. PATRONES DE DISEÑO\Trabajos\Trabajo Patrones Estructurales\Trabajo2Auth\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\raule\OneDrive\5. ESPECIALIZACION ITM\03. PATRONES DE DISEÑO\Trabajos\Trabajo Patrones Estructurales\Trabajo2Auth\Domain\bin\Debug\net8.0\Legacy.dll
+C:\Users\raule\OneDrive\5. ESPECIALIZACION ITM\03. PATRONES DE DISEÑO\Trabajos\Trabajo Patrones Estructurales\Trabajo2Auth\Domain\bin\Debug\net8.0\Legacy.pdb
+C:\Users\raule\OneDrive\5. ESPECIALIZACION ITM\03. PATRONES DE DISEÑO\Trabajos\Trabajo Patrones Estructurales\Trabajo2Auth\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\raule\OneDrive\5. ESPECIALIZACION ITM\03. PATRONES DE DISEÑO\Trabajos\Trabajo Patrones Estructurales\Trabajo2Auth\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date

@@ -28,6 +28,9 @@
         }
       },
       "Domain/1.0.0": {
+        "dependencies": {
+          "Legacy": "1.0.0"
+        },
         "runtime": {
           "Domain.dll": {
             "assemblyVersion": "1.0.0.0",

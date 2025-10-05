@@ -107,7 +107,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\raule\\OneDrive\\5. ESPECIALIZACION ITM\\03. PATRONES DE DISEÑO\\Trabajos\\Trabajo Patrones Estructurales\\Trabajo2Auth\\Legacy\\Legacy.csproj": {
+                "projectPath": "C:\\Users\\raule\\OneDrive\\5. ESPECIALIZACION ITM\\03. PATRONES DE DISEÑO\\Trabajos\\Trabajo Patrones Estructurales\\Trabajo2Auth\\Legacy\\Legacy.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
