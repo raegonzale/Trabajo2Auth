@@ -66,3 +66,12 @@ desktop.ini
 *.orig
 *.rej
 *.patch
+
+# ---- Refuerzo .NET/ NuGet (carpetas anidadas) ----
+**/bin/
+**/obj/
+
+# Archivos NuGet generados en obj/
+**/project.assets.json
+**/*.nuget.cache
+**/*.nuget.dgspec.json
