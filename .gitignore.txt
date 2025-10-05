@@ -1,0 +1,68 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.log
+*.tlog
+*.pdb
+*.tmp
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Rider
+*.sln.iml
+*.DotSettings.user
+
+# Dotnet stuff
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.generated.cs
+*.nupkg
+*.snupkg
+
+# Test results
+TestResult*/
+[Tt]est[Rr]esult*
+*.VisualState.xml
+*.coverage
+*.coveragexml
+
+# Build logs
+msbuild.log
+msbuild*.binlog
+
+# Publish outputs
+publish/
+out/
+wwwroot/
+node_modules/
+npm-debug.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Tooling
+.env
+*.env
+.env.*
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.patch
