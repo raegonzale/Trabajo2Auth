@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Domain.Auth.Interfaces
 {
-    internal class IAuditSink
+    public interface IAuditSink
     {
+        void Write(string message);
+        IEnumerable<string> Entries { get; }
     }
 }

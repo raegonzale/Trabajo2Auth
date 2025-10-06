@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Auth.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,12 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Adapters
 {
-    internal class OAuthCredentialsVerifier
+    public class OAuthCredentialsVerifier : ICredentialsVerifier
     {
+        public bool Validate(string username, string password)
+        {
+            // TODO: Implementar validación con proveedor OAuth
+            return false;
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Auth.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,12 @@ using System.Threading.Tasks;
 
 namespace Domain.Auth.Strategies
 {
-    internal class LdapStrategy
+    public class LdapStrategy : IAuthStrategy
     {
+        public bool Authenticate(string username, string password)
+        {
+            // TODO: Integración real LDAP
+            return false;
+        }
     }
 }

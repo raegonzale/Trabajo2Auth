@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Domain.Iteration.Interfaces
 {
-    internal class IIterator
+    public interface IIterator<T>
     {
+        bool HasNext();
+        T Next();
     }
 }

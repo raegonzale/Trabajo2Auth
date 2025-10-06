@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Application.Controllers
 {
-    internal class LoginController
+    public class LoginController
     {
+        private readonly Services.AuthService _auth;
+        public LoginController(Services.AuthService auth) => _auth = auth;
+        public bool login(string u, string p) => _auth.checkUsernameAndPassword(u, p);
     }
+
 }

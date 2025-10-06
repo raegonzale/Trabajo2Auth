@@ -75,3 +75,4 @@ desktop.ini
 **/project.assets.json
 **/*.nuget.cache
 **/*.nuget.dgspec.json
+**/*.csproj.BuildWithSkipAnalyzers

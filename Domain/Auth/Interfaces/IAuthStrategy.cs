@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Domain.Auth.Interfaces
 {
-    internal class IAuthStrategy
+    public interface IAuthStrategy
     {
+        bool Authenticate(string username, string password);
     }
 }

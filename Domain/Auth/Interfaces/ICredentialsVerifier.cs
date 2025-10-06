@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Domain.Auth.Interfaces
 {
-    internal class ICredentialsVerifier
+    public interface ICredentialsVerifier
     {
+        bool Validate(string username, string password);
     }
 }

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Domain.Auth.Interfaces
 {
-    internal class IHandler
+    public interface IHandler
     {
+        IHandler SetNext(IHandler next);
+        DTOs.AuthResult Handle(DTOs.AuthRequest req);
     }
 }
